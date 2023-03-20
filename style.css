@@ -1,0 +1,15 @@
+    body
+{
+    background-size: cover;
+    background-attachment: fixed;
+}
+nav.navbar {
+    background-color: black;
+    padding: 30px;
+}
+.nav-link
+{
+    color: white;
+    text-transform: uppercase;
+
+}
